@@ -30,7 +30,7 @@ end)
 
 --Heavily pasted btw just like aura x
 
-local Library = loadstring(game:HttpGet("https://pastebin.com/raw/kpLzpNXc"))()
+local Library = loadstring(game:HttpGet("https://pastebin.com/raw/L7gJN9Rx"))()
 
 local Window = Library:CreateWindow("Aura X Remake", Vector2.new(300, 300), Enum.KeyCode.RightShift)
 local AkaliNotif =
